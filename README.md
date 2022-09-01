@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @denna2die4
-- 👀 I’m interested in PHP,MYSQL, JQuery mostly. But able to develop using multiple other languages. Consider myself a well round Full Stack Developer. 
+- 👀 I’m interested in PHP,MYSQL, JQuery mostly. Able to develop using multiple other languages. Consider myself a well round Full Stack Developer. 
 - 💞️ I’m looking to collaborate on Service Delivery projects which will generate large amounts of data that can be used to display realtime information.
 
 <!---
